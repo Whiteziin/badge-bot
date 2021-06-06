@@ -1,0 +1,30 @@
+{
+  "name": "badge-bot",
+  "version": "2.1.0",
+  "description": "a simple bot with badge auto-role",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "12.5.3",
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Whiteziin/badge-bot.git"
+  },
+  "keywords": [
+    "badge",
+    "discordapp",
+    "discord.js",
+    "autorole"
+  ],
+  "author": "White",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Whiteziin/badge-bot/issues"
+  },
+  "homepage": "https://github.com/Whiteziin/badge-bot#readme"
+}
